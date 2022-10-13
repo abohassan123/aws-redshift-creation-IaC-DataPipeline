@@ -1,6 +1,5 @@
 # aws-redshift-creation-IaC-DataPipeline
-First:
-    in aws console created:
+first in the aws console created:
       - s3 bucket and upload the data in it 
       - IAM user
       - IAM role for redshift acess
