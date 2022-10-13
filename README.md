@@ -1,9 +1,10 @@
 # aws-redshift-creation-IaC-DataPipeline
-first in aws console created:
-  - s3 bucket and upload the data in it 
-  - IAM user
-  - IAM role for redshift acess
- second :
+First:
+    in aws console created:
+      - s3 bucket and upload the data in it 
+      - IAM user
+      - IAM role for redshift acess
+ Second :
     with python :
       - connect s3 bucket with my notebook
       - creat config file contains all information need to create redshif cluster 
