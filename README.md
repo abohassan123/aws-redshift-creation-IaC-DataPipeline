@@ -23,7 +23,7 @@ Second with python :
 
 - created data model 
 
-- copied data from s3 to redshift DB
+- copied data from s3 to redshift DB with copy command
 
 - made a simple query with SQL and python
 
