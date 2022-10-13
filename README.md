@@ -1,19 +1,34 @@
 # aws-redshift-creation-IaC-DataPipeline
-First in the aws console created:
+First in the AWS console created:
+
 - s3 bucket and upload the data in it 
+
 - IAM user
-- IAM role for redshift acess
+
+- IAM role for redshift access
+
+
 
 Second with python :
 
+
+
 - connected s3 bucket with my notebook
-- created config file contained all information need to create redshif cluster 
-- created redshif cluster using Using Python Infrastructure As Code (IaC) 
+
+- created config file containing all information needed to create a redshift cluster 
+
+- created redshift cluster using Using Python Infrastructure As Code (IRC) 
+
 - Opened a TCP port to access the cluster endpoint
+
 - created data model 
-- copied data from s3 to redshift db
-- made simple query with sql and python
+
+- copied data from s3 to redshift DB
+
+- made a simple query with SQL and python
+
 - closed the connection
+
 - deleted Resources
   
   Note : 
